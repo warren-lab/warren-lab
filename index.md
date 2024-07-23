@@ -1,8 +1,8 @@
 ---
 ---
 
-# warren-labDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
-
+# Warren Lab
+Automated Monitoring of Insect Behavior and Physiology
 
 
 {% include section.html %}
